@@ -39,6 +39,7 @@ public class GameManager : MonoBehaviour
 
     void GameOver()
     {
-        SceneManager.LoadScene("MenuScene");
+        GameData.finalScore = score;
+        SceneManager.LoadScene("FiDePartida");
     }
 }
