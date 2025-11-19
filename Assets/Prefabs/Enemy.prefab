@@ -201,10 +201,10 @@ MonoBehaviour:
   speed: 0.1
   damage: 1
   life: 1
-  spriteA: {fileID: 21300000, guid: d68f6c4f57cd6894687a7ad559b841ca, type: 3}
-  spriteB: {fileID: 21300000, guid: d68f6c4f57cd6894687a7ad559b841ca, type: 3}
-  spriteHit: {fileID: 21300000, guid: 7a87b61852b3be14fa871b6aa3b111f9, type: 3}
-  spriteEscape: {fileID: 21300000, guid: 2bf12ade68c1fe9439cc6f7f711a3359, type: 3}
+  spriteA: {fileID: 21300000, guid: fe539471d6b88854bbce7cbdd6a49ead, type: 3}
+  spriteB: {fileID: 21300000, guid: 4b8722424b9d613498ca626c8eb38b78, type: 3}
+  spriteHit: {fileID: 21300000, guid: a1af228793aee3d43a10817f3a6f8bb6, type: 3}
+  spriteEscape: {fileID: 21300000, guid: 46fed95df3cf2a840a55470cd8b2d1ea, type: 3}
   audioSource: {fileID: 6356078536886687103}
   loopSound: {fileID: 8300000, guid: 480118ac1fa229d46a0d44c9daebf88c, type: 3}
   hitSound: {fileID: 8300000, guid: 8a8ebf75bae1e874f8a2ea0594dd6d17, type: 3}

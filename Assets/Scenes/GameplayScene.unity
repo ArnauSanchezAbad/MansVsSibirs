@@ -312,7 +312,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f26b24bed3af8094897363acd0051f79, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4f10e0e2bac9d4d45a3d715e13cbd22b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -470,9 +470,9 @@ MonoBehaviour:
   score: 0
   scoreText: {fileID: 1217883306}
   livesImage: {fileID: 146659625}
-  life3Sprite: {fileID: 21300000, guid: f26b24bed3af8094897363acd0051f79, type: 3}
-  life2Sprite: {fileID: 21300000, guid: e3530278f22561c45bba012c2b392055, type: 3}
-  life1Sprite: {fileID: 21300000, guid: dda6f1cbc1e903e4987aed16f093a10b, type: 3}
+  life3Sprite: {fileID: 21300000, guid: 4f10e0e2bac9d4d45a3d715e13cbd22b, type: 3}
+  life2Sprite: {fileID: 21300000, guid: 2c87e70aa8cddf4468fc9bbe26509629, type: 3}
+  life1Sprite: {fileID: 21300000, guid: ad542f48c753aff4f960c9bd1e125b04, type: 3}
 --- !u!4 &285392735
 Transform:
   m_ObjectHideFlags: 0
@@ -1929,7 +1929,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -922888878065087515, guid: 215687feeab0b7445b4a1cd86c82c2e1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 866a3f5c1f6228e48938e7ec0d36ee1f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
