@@ -1887,8 +1887,8 @@ MonoBehaviour:
   projectileSpeed: 4
   fireCooldown: 0.5
   weaponImage: {fileID: 1625833247}
-  spriteReady: {fileID: -922888878065087515, guid: 215687feeab0b7445b4a1cd86c82c2e1, type: 3}
-  spriteShooting: {fileID: 3643772185187624922, guid: 215687feeab0b7445b4a1cd86c82c2e1, type: 3}
+  spriteReady: {fileID: 21300000, guid: 866a3f5c1f6228e48938e7ec0d36ee1f, type: 3}
+  spriteShooting: {fileID: 21300000, guid: 329c8caffdf922b4b8a2fdaa56391104, type: 3}
   audioSource: {fileID: 839384982}
   shootSound: {fileID: 8300000, guid: 4cb72c27839ce96418196eda26129e75, type: 3}
 --- !u!1 &1625833246
